@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Qt based cross-platform GUI proxy configuration manager
+EAPI=8
+HOMEPAGE=https://github.com/MatsuriDayo/nekoray/
+INHERIT=desktop
+LICENSE=BSD-3
+RDEPEND=x11-libs/libxcb !net-proxy/nekoray
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-linux64.zip
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_md5_=934584d7a1942a94f0cdc327f12d7de5
