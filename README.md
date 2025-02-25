@@ -8,3 +8,5 @@ location = /var/db/repos/things
 sync-type = git
 sync-uri = https://github.com/tetrahydrocannabin0l/things.git
 ```
+
+then do `emaint -a sync`
