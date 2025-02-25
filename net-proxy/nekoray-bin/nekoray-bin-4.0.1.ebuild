@@ -8,7 +8,7 @@ LICENSE="BSD-3"
 RESTRICT="strip"
 
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="amd64"
 
 RDEPEND="
 	x11-libs/libxcb
